@@ -8,7 +8,7 @@ class Shoe
     if condition = "new"
     puts "Your shoe is as good as new!"
   else  
-    puts "Your show has been repaired!"
+    "old"
   end
   end
 end 
