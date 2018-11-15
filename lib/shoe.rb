@@ -7,6 +7,6 @@ class Shoe
     @brand
   end
   def cobble
-    puts "The show has been repaired"
+    puts "Your Shoe is as good as new!"
   end
 end
