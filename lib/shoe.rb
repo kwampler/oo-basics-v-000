@@ -10,5 +10,4 @@ class Shoe
   if condition == "old" 
     puts "Your shoe has been repaired!"
   end
-  end
-end 
+end
