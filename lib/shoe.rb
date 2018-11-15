@@ -4,4 +4,6 @@ class Shoe
   def initialize(brand)
     @brand = brand
   end
+  def cobble
+    "Your show is as good as new!"
 end 
