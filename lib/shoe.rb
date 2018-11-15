@@ -8,7 +8,7 @@ class Shoe
     if shoe.condition = new
     puts "Your shoe is as good as new!"
   else  
-    puts "old"
+    puts "Your show has been repaired!"
   end
   end
 end 
